@@ -1,0 +1,3 @@
+탐색기에서 파일>windows powetshell 열기 클릭
+>pip install pyautogui
+
