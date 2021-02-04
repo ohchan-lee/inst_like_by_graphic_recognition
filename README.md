@@ -7,7 +7,7 @@
 
 
 # 사용방법
->python main.py <id> <ps> <tag> <like_button> <click_num>
+>python main.py \<id> \<ps> \<tag> \<like_button> \<click_num>
 
 
 id : 인스타그램 아이디
